@@ -6,7 +6,7 @@ image:
   name: denvasyliev/k8sdiy
   tag: build-2df9a62
 api:
-  replicas: 1
+  replicas: 3
   canary: 0
   header: ""
   port: 8080
